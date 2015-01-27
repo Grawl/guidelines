@@ -1,6 +1,6 @@
 # Jade project structure for static website
 
-(front-page image)
+![](http://i.imgur.com/pBvNagg.png)
 
 Recently I worked with Jade template engine for creating of some HTML files in addition to Sass to create CSS. Jade is the best template engine I ever seen.
 
@@ -41,7 +41,7 @@ Sample project structure:
 
 > Inside this folder you have to put all your Jade files that will directly create HTML files – your **pages**.
 
-(article image)
+![](http://i.imgur.com/w0XsmHO.png)
 
 Every `page` `extends` one of your `layouts` and contains only calls for your `components` or `helpers`, for example:
 
@@ -63,7 +63,7 @@ block page
 
 Every layout extends `base.jade`.
 
-(profile image)
+![](http://i.imgur.com/DRfoa7l.png)
 
 Layout can be like this:
 
@@ -125,7 +125,7 @@ I used this kinds of magic:
 
 > But not small parts that is unique for pages or other things. For this we have helpers.
 
-(article image)
+![](http://i.imgur.com/h4HmU4D.png)
 
 A basic component looks like a mixin:
 
