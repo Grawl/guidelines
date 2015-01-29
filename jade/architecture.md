@@ -163,3 +163,4 @@ It's a small helper that you can store with all other helpers for that page and 
 ## Further reading:
 
 - [Jade Guidelines](https://github.com/plentiful/guidelines/blob/master/jade.md) by Roman Zolotarev
+- [&yet's Code Guide](http://yetiguide.com/#html-syntax) (HTML part is for Jade)
